@@ -1,0 +1,35 @@
+
+/* footer start */
+.h-12{
+    height: 10%;
+}
+.bg{
+    background-color: #a27242;
+}
+/* footer end */
+
+
+/* header start */
+.breadcrumb {
+    font-size: small;
+}
+.navbar{
+    background-color: #a27242;
+}
+.navbar-brand{
+    color: #ffffff;
+    letter-spacing:10px;
+}
+.nav-link{
+    color: #ffffff;
+}
+.nav-item {
+    color: #d6bca5!important;
+}
+.breadcrumb-item{
+    color:#a27242!important ;
+}
+.breadcrumb-item a{
+    color: #404040;
+}
+/* header end */
