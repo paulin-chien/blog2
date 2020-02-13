@@ -1,15 +1,13 @@
 
+
+
 /* footer start */
-.h-12{
-    height: 10%;
-}
-.bg{
+footer{
     background-color: #a27242;
+    height: 80px;
 }
 /* footer end */
-container{
-height: 100%
-}
+
 
 /* header start */
 .breadcrumb {
