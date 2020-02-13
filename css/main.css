@@ -7,7 +7,9 @@
     background-color: #a27242;
 }
 /* footer end */
-
+container{
+height: 100%
+}
 
 /* header start */
 .breadcrumb {
@@ -33,3 +35,43 @@
     color: #404040;
 }
 /* header end */
+
+
+/* 留言區 start */
+.card {
+    border: solid 1px#a27242;
+}
+
+img {
+    width: 65px;
+}
+
+h5 {
+    color: #a27242;
+}
+
+p {
+    color: #717171;
+    line-height:20px;
+}
+
+.card-head {
+    color: #ffff;
+    background-color: #a27242;
+}
+
+.card-header {
+    background-color: #a27242;
+    border: solid 5px #a27242;
+    border-radius: 10%;
+}
+
+.border-brown {
+    border: solid 1px #a27242;
+    width:80%;
+}
+
+.stich {
+    word-break: break-all;
+}
+/* 留言區 end */
