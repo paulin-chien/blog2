@@ -33,8 +33,53 @@ footer{
     color: #404040;
 }
 /* header end */
-
-
+/* 內文 start */
+.font01 {
+    color: #a27242;
+  }
+  
+  .nav-link{
+    color: #6b6b6b;
+    font-size: 14px;
+    line-height: 15px;
+    padding:0px 30px 0px 0px;
+    line-height: 30px;
+  }
+  .words{
+    color: #424242;
+    font-size: 14px;
+    line-height: 25px;
+    padding: 20px 0px;
+    text-justify:inter-character;
+  }
+  li{
+    color: #424242;
+    font-size: 14px;
+    line-height: 25px;
+}
+  .img01{
+    padding: 20px 10px 20px 0px;
+    width: 400px;
+  }
+  .img02{
+    padding: 20px 10px 20px 0px;
+    width: 100%;
+  }
+  .tags{
+    color: #838383;
+    font-size: 20px;
+    font-weight:bold;
+  }
+  a{
+    color: #424242;
+  }
+  a:hover{
+    color: #a27242;
+  }
+  .badge{
+      margin: 0px 5px 5px 5px;
+  }
+/* 內文 end */
 /* 留言區 start */
 .card {
     border: solid 1px#a27242;
