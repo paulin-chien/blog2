@@ -79,6 +79,9 @@ footer{
   .badge{
       margin: 0px 5px 5px 5px;
   }
+  .tags01{
+    margin: 0px 0px 25px 0px;
+  }
 /* 內文 end */
 /* 留言區 start */
 .card {
