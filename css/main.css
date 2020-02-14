@@ -20,6 +20,9 @@ footer{
     color: #ffffff;
     letter-spacing:10px;
 }
+.navbar-nav a.nav-link {
+  color: #fff;
+}
 .nav-link{
     color: #ffffff;
 }
@@ -31,6 +34,10 @@ footer{
 }
 .breadcrumb-item a{
     color: #404040;
+    
+    .navbar-nav a.nav-link {
+      color: #fff;
+  }
 }
 /* header end */
 /* 內文 start */
@@ -106,6 +113,9 @@ p {
     background-color: #a27242;
 }
 
+.card{
+  margin-bottom: 70px;
+}
 .card-header {
     background-color: #a27242;
     border: solid 5px #a27242;
